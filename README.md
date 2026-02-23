@@ -4,9 +4,8 @@ This project was generated and exported by [Appetize](https://appetize.io).
 
 ## Source:
 
-This project was based on YouTube video by
-LetCode with Koushik
-[Link](https://www.youtube.com/watch?v=OOBjzIyiW0Y&t=512s)
+Thanks to LetCode with Koushik for doing hardwork and uploading YouTube video
+[link here.](https://www.youtube.com/watch?v=OOBjzIyiW0Y&t=512s)
 
 ## Running your Tests
 
