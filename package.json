@@ -1,0 +1,12 @@
+{
+    "name": "appetize-tests",
+    "private": true,
+    "scripts": {
+        "test": "playwright test --headed"       
+    },
+    "devDependencies": {
+        "@playwright/test": "^1.39.0",
+        "@types/node": "^20.8.8",
+        "@appetize/playwright": "latest"
+    }
+}
